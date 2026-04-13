@@ -128,3 +128,9 @@ target/
 ## File-based project format:
 *.ipr
 *.iws
+
+# Agent files
+.claude/
+
+# DevContainer
+.devcontainer/
